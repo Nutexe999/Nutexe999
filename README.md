@@ -3,7 +3,7 @@
 <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Nutexe999&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> </p>
 <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Nutexe999&theme=dracula" /> </p>
 <p> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutexe999&layout=compact&langs_count=10&show_icons=true&theme=dracula" /> </p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/741231159345938442)](https://discord.com/users/741231159345938442)
+[![Discord Presence](https://lanyard.cnrad.dev/api/741231159345938442)](https://discord.com/users/741231159345938442)[1]
 <!---
 Nutexe999/Nutexe999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
