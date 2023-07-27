@@ -2,8 +2,8 @@
 <p> <img src="https://komarev.com/ghpvc/?username=Nutexe999&label=Profile%20views&color=0e75b6&style=flat" alt="Nutexe999" /> </p>
 <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Nutexe999&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> </p>
 <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Nutexe999&theme=dracula" /> </p>
-<p> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutexe999&layout=compact&langs_count=10&show_icons=true&theme=dracula" /> </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nutexe999&hide_progress=true)
+<p> <img alt="Languages" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Nutexe999&layout=compact&langs_count=10&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)" /> </p>
+
 <a href="https://discord.com/users/741231159345938442"><img src="https://lanyard-profile-readme.vercel.app/api/741231159345938442?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else)" alt="Discord" /></a>
 <!---
 Nutexe999/Nutexe999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
