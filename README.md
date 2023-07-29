@@ -11,7 +11,7 @@
   <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Nutexe999&theme=dracula" /> 
 </p>
 
-<a href="https://github.com/ChokunPlayZ">
+<a href="https://github.com/Nutexe999">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutexe999&theme=github_dark" height="230"/>
 </a>
 
