@@ -12,7 +12,7 @@
 </p>
 
 <a href="https://github.com/ChokunPlayZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chokunplayz&theme=github_dark" height="230"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutexe999&theme=github_dark" height="230"/>
 </a>
 
 <a href="https://discord.com/users/741231159345938442"><img src="https://lanyard-profile-readme.vercel.app/api/741231159345938442?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else)" alt="Discord" />
