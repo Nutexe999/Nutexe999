@@ -2,9 +2,9 @@
   
   <h1>Hi, I'm Nut.exe!🇹🇭</h1>
 
-  <a href="https://discord.com/users/741231159345938442">
-    <img src="https://lanyard.cnrad.dev/api/741231159345938442?bg=3e3b5f" alt="Discord Presence"/>
-  </a>
+<a href="https://discord.com/users/741231159345938442">
+<img src="https://lanyard.cnrad.dev/api/741231159345938442" />
+</a>
 </div>
 
 <div align="center">
