@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Nutexe999&label=Profile%20views&color=0e75b6&style=flat" alt="Nutexe999" /> 
 </p>
 
-<p> 
+<!-- <p> 
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Nutexe999&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> 
 </p>
 
@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://discord.com/users/741231159345938442"><img src="https://lanyard-profile-readme.vercel.app/api/741231159345938442?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else)" alt="Discord" />
-</a>
+</a> -->
 
 <!---
 Nutexe999/Nutexe999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
