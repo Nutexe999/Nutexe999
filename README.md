@@ -40,7 +40,7 @@
   <b>OS</b><br/>
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="32" title="Kali Linux"/>
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="32" title="Ubuntu"/>
-  <img src="https://cdn.simpleicons.org/windows/0078D6" width="32" title="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="32" title="Windows"/>
   <br/>
 </div>
 <!---
