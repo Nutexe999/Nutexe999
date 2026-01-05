@@ -35,6 +35,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" title="Docker"/>
   <img src="https://cdn.simpleicons.org/vmware/607078" width="32" title="VMware vSphere"/>
   <img src="https://cdn.simpleicons.org/proxmox/EE0000" width="32" title="Proxmox"/>
+   <!-- OS -->
+  <b>OS</b><br/>
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="32" title="Kali Linux"/>
   <br/>
 </div>
 <!---
