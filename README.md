@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=Nutexe999&label=Profile%20views&color=0e75b6&style=flat" alt="Nutexe999" /> 
 </p>
 
-<a href="https://discord.com/users/741231159345938442">
+  <a href="https://discord.com/users/741231159345938442">
     <img src="https://lanyard.cnrad.dev/api/741231159345938442?bg=3e3b5f" alt="Discord Presence"/>
-</a>
+  </a>
 </div>
 <!---
 Nutexe999/Nutexe999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
