@@ -1,6 +1,9 @@
 <div align="center">
   
   <h1>Hi, I'm Nut.exe!🇹🇭</h1>
+  <h3>
+    Cyber Security • Full Stack Developer • IT Support • Network Support
+  </h3>
 
 <a href="https://discord.com/users/741231159345938442">
 <img src="https://lanyard.cnrad.dev/api/741231159345938442" />
