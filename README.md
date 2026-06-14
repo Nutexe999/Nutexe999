@@ -54,14 +54,6 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Nutexe999&theme=discord&no-frame=true&margin-w=8&column=7)](https://github.com/Nutexe999)
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=22D3EE&height=48&section=header&text=PROJECTS&fontSize=20&fontColor=ffffff&fontAlignY=40"/>
 
 </div>
@@ -310,16 +302,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e1b4b&height=28&section=header&text=%20&fontSize=1" alt="divider"/>
-
-![Snake](https://raw.githubusercontent.com/Nutexe999/Nutexe999/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0d1117&height=120&section=footer&text=Nut.exe&fontSize=44&fontColor=ffffff&animation=gradient&desc=Own%20your%20stack.%20Ship%20with%20confidence.&descSize=13&descAlignY=74&descAlign=55"/>
 
 </div>
+
+<!--
+Trophies — uncomment when you want them on profile:
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Nutexe999&theme=discord&no-frame=true&margin-w=8&column=4)](https://github.com/Nutexe999)
+
+Snake — uncomment after running .github/workflows/snake.yml once (branch output must exist):
+<img src="https://raw.githubusercontent.com/Nutexe999/Nutexe999/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
+-->
