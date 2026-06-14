@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0d1117&height=210&section=header&text=Nut.exe&fontSize=78&fontColor=ffffff&animation=twinkling&desc=Peeranut%20Ninsai%20%C2%B7%20Fullstack%20Developer&descSize=17&descAlignY=76&descAlign=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0d1117&height=210&section=header&text=Nut.exe&fontSize=78&fontColor=ffffff&animation=gradient&desc=Peeranut%20Ninsai%20%C2%B7%20Fullstack%20Developer&descSize=17&descAlignY=76&descAlign=60"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Cyber+Security+%C2%B7+FiveM+Lua+%C2%B7+Discord+Bot;Self--Hosted+Auth+%C2%B7+Code+Protection;Building+LibreAuth+%26+Veil" alt="Typing tagline"/>
 
@@ -20,9 +20,7 @@
 
 <div align="center">
 
-### 👋 About Me
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=8B5CF6&height=36&section=header&text=%20&fontSize=1" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=8B5CF6&height=48&section=header&text=ABOUT&fontSize=20&fontColor=ffffff&fontAlignY=40"/>
 
 </div>
 
@@ -64,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0d1117&height=80&section=header&text=%F0%9F%9A%80%20Projects&fontSize=32&fontColor=ffffff&animation=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22D3EE&height=48&section=header&text=PROJECTS&fontSize=20&fontColor=ffffff&fontAlignY=40"/>
 
 </div>
 
@@ -73,7 +71,7 @@
 <td width="50%" valign="top" align="center">
 
 <a href="https://libreauth.nutexe.dev/">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:22D3EE,50:0e7490,100:164e63&height=100&section=header&text=LibreAuth&fontSize=42&fontColor=ffffff&animation=twinkling" alt="LibreAuth"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:22D3EE,50:0e7490,100:164e63&height=100&section=header&text=LibreAuth&fontSize=42&fontColor=ffffff&animation=gradient" alt="LibreAuth"/>
 </a>
 
 <br/>
@@ -100,14 +98,14 @@
 <br/><br/>
 
 <a href="https://libreauth.nutexe.dev/">
-<img src="https://img.shields.io/badge/→%20libreauth.nutexe.dev-22D3EE?style=for-the-badge&labelColor=0f172a&logo=google-chrome&logoColor=white" alt="Visit LibreAuth"/>
+<img src="https://img.shields.io/badge/Visit-libreauth.nutexe.dev-22D3EE?style=for-the-badge&labelColor=0f172a&logo=google-chrome&logoColor=white" alt="Visit LibreAuth"/>
 </a>
 
 </td>
 <td width="50%" valign="top" align="center">
 
 <a href="https://veil.nutexe.dev/">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A855F7,50:7c3aed,100:5b21b6&height=100&section=header&text=Veil&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Veil"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A855F7,50:7c3aed,100:5b21b6&height=100&section=header&text=Veil&fontSize=42&fontColor=ffffff&animation=gradient" alt="Veil"/>
 </a>
 
 <br/>
@@ -134,7 +132,7 @@
 <br/><br/>
 
 <a href="https://veil.nutexe.dev/">
-<img src="https://img.shields.io/badge/→%20veil.nutexe.dev-A855F7?style=for-the-badge&labelColor=0f172a&logo=google-chrome&logoColor=white" alt="Visit Veil"/>
+<img src="https://img.shields.io/badge/Visit-veil.nutexe.dev-A855F7?style=for-the-badge&labelColor=0f172a&logo=google-chrome&logoColor=white" alt="Visit Veil"/>
 </a>
 
 </td>
@@ -145,7 +143,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0d1117&height=80&section=header&text=%F0%9F%A7%A9%2017%20SDK%20Languages&fontSize=30&fontColor=ffffff&animation=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=8B5CF6&height=48&section=header&text=17%20SDK%20LANGUAGES&fontSize=18&fontColor=ffffff&fontAlignY=40"/>
 
 </div>
 
@@ -181,7 +179,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0d1117&height=80&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=30&fontColor=ffffff&animation=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22D3EE&height=48&section=header&text=TECH%20STACK&fontSize=20&fontColor=ffffff&fontAlignY=40"/>
 
 </div>
 
@@ -238,26 +236,38 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0d1117&height=80&section=header&text=%F0%9F%92%BC%20What%20I%20Do&fontSize=30&fontColor=ffffff&animation=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=8B5CF6&height=48&section=header&text=EXPERTISE&fontSize=20&fontColor=ffffff&fontAlignY=40"/>
 
 </div>
 
-<table width="100%">
+<table width="100%" cellpadding="6" cellspacing="0">
 <tr>
-<td width="25%" align="center"><img src="https://img.shields.io/badge/🛡️-Cyber_Security-10b981?style=for-the-badge&labelColor=0f172a"/></td>
-<td width="75%"><sub>Pentest · Vulnerability analysis · Hardening · Ed25519 signed APIs</sub></td>
+<td width="22%" align="center" valign="top">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="32" height="32" alt="Security"/><br/>
+<img src="https://img.shields.io/badge/Security-10b981?style=flat-square&labelColor=0f172a&logo=hackthebox&logoColor=white" alt="Security"/>
+</td>
+<td width="78%" valign="middle"><sub>Pentest · Vulnerability analysis · Hardening · Ed25519 signed APIs</sub></td>
 </tr>
 <tr>
-<td width="25%" align="center"><img src="https://img.shields.io/badge/🌐-Web_Dev-3b82f6?style=for-the-badge&labelColor=0f172a"/></td>
-<td width="75%"><sub>Next.js · React · Full Stack · Cloud deploy · Performance-first UX</sub></td>
+<td width="22%" align="center" valign="top">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Web"/><br/>
+<img src="https://img.shields.io/badge/Web-3b82f6?style=flat-square&labelColor=0f172a&logo=nextdotjs&logoColor=white" alt="Web"/>
+</td>
+<td width="78%" valign="middle"><sub>Next.js · React · Full Stack · Cloud deploy · Performance-first UX</sub></td>
 </tr>
 <tr>
-<td width="25%" align="center"><img src="https://img.shields.io/badge/🤖-Bot_Dev-8B5CF6?style=for-the-badge&labelColor=0f172a"/></td>
-<td width="75%"><sub>Discord bots · API automation · Real-time workflows · Webhooks</sub></td>
+<td width="22%" align="center" valign="top">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="32" height="32" alt="Bots"/><br/>
+<img src="https://img.shields.io/badge/Bots-8B5CF6?style=flat-square&labelColor=0f172a&logo=discord&logoColor=white" alt="Bots"/>
+</td>
+<td width="78%" valign="middle"><sub>Discord bots · API automation · Real-time workflows · Webhooks</sub></td>
 </tr>
 <tr>
-<td width="25%" align="center"><img src="https://img.shields.io/badge/🎮-FiveM_Lua-f43f5e?style=for-the-badge&labelColor=0f172a"/></td>
-<td width="75%"><sub>Production Lua · OneSync · Server-side validation · Anti-tamper</sub></td>
+<td width="22%" align="center" valign="top">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" width="32" height="32" alt="FiveM"/><br/>
+<img src="https://img.shields.io/badge/FiveM-f43f5e?style=flat-square&labelColor=0f172a&logo=lua&logoColor=white" alt="FiveM"/>
+</td>
+<td width="78%" valign="middle"><sub>Production Lua · OneSync · Server-side validation · Anti-tamper</sub></td>
 </tr>
 </table>
 
@@ -265,7 +275,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0d1117&height=80&section=header&text=%F0%9F%93%88%20Activity&fontSize=30&fontColor=ffffff&animation=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22D3EE&height=48&section=header&text=ACTIVITY&fontSize=20&fontColor=ffffff&fontAlignY=40"/>
 
 </div>
 
@@ -279,7 +289,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:0d1117&height=80&section=header&text=%F0%9F%93%AB%20Connect&fontSize=30&fontColor=ffffff&animation=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=8B5CF6&height=48&section=header&text=CONNECT&fontSize=20&fontColor=ffffff&fontAlignY=40"/>
 
 </div>
 
@@ -300,6 +310,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0d1117&height=130&section=footer&text=Nut.exe&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Own%20your%20stack.%20Ship%20with%20confidence.&descSize=14&descAlignY=75&descAlign=55"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1e1b4b&height=28&section=header&text=%20&fontSize=1" alt="divider"/>
+
+![Snake](https://raw.githubusercontent.com/Nutexe999/Nutexe999/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0d1117&height=120&section=footer&text=Nut.exe&fontSize=44&fontColor=ffffff&animation=gradient&desc=Own%20your%20stack.%20Ship%20with%20confidence.&descSize=13&descAlignY=74&descAlign=55"/>
 
 </div>
