@@ -1,52 +1,88 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&lines=Peeranut+Ninsai;Nut.exe+%7C+Fullstack+Developer;Cyber+Security+%C2%B7+FiveM;Discord+Bot+%C2%B7+Lua" alt="Typing intro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0d1117&height=210&section=header&text=Nut.exe&fontSize=78&fontColor=ffffff&animation=twinkling&desc=Peeranut%20Ninsai%20%C2%B7%20Fullstack%20Developer&descSize=17&descAlignY=76&descAlign=60"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Cyber+Security+%C2%B7+FiveM+Lua+%C2%B7+Discord+Bot;Self--Hosted+Auth+%C2%B7+Code+Protection;Building+LibreAuth+%26+Veil" alt="Typing tagline"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Nutexe999&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nutexe.dev-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nutexe.dev)
-[![LibreAuth](https://img.shields.io/badge/LibreAuth-Self--Hosted-22D3EE?style=for-the-badge&logo=shield&logoColor=white)](https://libreauth.nutexe.dev/)
-[![Veil](https://img.shields.io/badge/Veil-Obfuscator-A855F7?style=for-the-badge&logo=codeigniter&logoColor=white)](https://veil.nutexe.dev/)
+[![Portfolio](https://img.shields.io/badge/nutexe.dev-Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nutexe.dev)
+[![LibreAuth](https://img.shields.io/badge/libreauth.nutexe.dev-Self--Hosted-22D3EE?style=for-the-badge&logo=shield&logoColor=white)](https://libreauth.nutexe.dev/)
+[![Veil](https://img.shields.io/badge/veil.nutexe.dev-Obfuscator-A855F7?style=for-the-badge&logo=codeigniter&logoColor=white)](https://veil.nutexe.dev/)
 
 </div>
 
 ---
 
-### 👋 About
+<div align="center">
 
-```diff
-+ Fullstack Developer from Thailand
-+ Cyber Security · IT/Network Support · FiveM Lua · Discord Bot
-+ Building self-hosted auth & code protection platforms
-```
+### 👋 About Me
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=8B5CF6&height=36&section=header&text=%20&fontSize=1" alt="divider"/>
+
+</div>
+
+> **Peeranut Ninsai** — known as **`Nut.exe`** · Fullstack Developer from Thailand  
+> I build **self-hosted auth**, **code protection**, **Discord bots** & **FiveM** systems for production scale.
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nutexe999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9&rank_icon=percentile" height="165" alt="GitHub stats"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nutexe999&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6" height="165" alt="GitHub streak"/>
+<img src="https://img.shields.io/badge/Cyber_Security-10b981?style=flat-square&labelColor=0f172a&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full_Stack_Dev-3b82f6?style=flat-square&labelColor=0f172a&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/IT_Support-f59e0b?style=flat-square&labelColor=0f172a&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Network_Support-f43f5e?style=flat-square&labelColor=0f172a&logo=cisco&logoColor=white"/>
 
 </div>
 
 <br/>
 
-## 🚀 Projects
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nutexe999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9&rank_icon=percentile" height="170" alt="GitHub stats"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nutexe999&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6" height="170" alt="GitHub streak"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutexe999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" height="170" alt="Top languages"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
-<table width="100%" cellpadding="8" cellspacing="0">
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Nutexe999&theme=discord&no-frame=true&margin-w=8&column=7)](https://github.com/Nutexe999)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0d1117&height=80&section=header&text=%F0%9F%9A%80%20Projects&fontSize=32&fontColor=ffffff&animation=gradient"/>
+
+</div>
+
+<table width="100%" cellpadding="10" cellspacing="0">
 <tr>
 <td width="50%" valign="top" align="center">
 
 <a href="https://libreauth.nutexe.dev/">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:22D3EE,50:0e7490,100:164e63&height=96&section=header&text=LibreAuth&fontSize=40&fontColor=ffffff&animation=twinkling" alt="LibreAuth"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:22D3EE,50:0e7490,100:164e63&height=100&section=header&text=LibreAuth&fontSize=42&fontColor=ffffff&animation=twinkling" alt="LibreAuth"/>
 </a>
 
 <br/>
 
 <sub><b>SELF-HOSTED AUTHENTICATION PLATFORM</b></sub>
+
+<br/>
+
+<sub><i>License keys · HWID lock · Subscriptions · Webhooks · 17 SDKs</i></sub>
 
 <br/><br/>
 
@@ -58,8 +94,8 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/API-v1.3-22D3EE?style=for-the-badge&labelColor=0f172a&logo=fastapi&logoColor=white" alt="API v1.3"/>
-<img src="https://img.shields.io/badge/Hosting-Self--Hosted-22D3EE?style=for-the-badge&labelColor=0f172a&logo=server&logoColor=white" alt="Self-Hosted"/>
+<img src="https://img.shields.io/badge/API-v1.3-22D3EE?style=for-the-badge&labelColor=0f172a&logo=fastapi&logoColor=white" alt="API"/>
+<img src="https://img.shields.io/badge/Hosting-Self--Hosted-22D3EE?style=for-the-badge&labelColor=0f172a&logo=server&logoColor=white" alt="Hosting"/>
 
 <br/><br/>
 
@@ -67,18 +103,20 @@
 <img src="https://img.shields.io/badge/→%20libreauth.nutexe.dev-22D3EE?style=for-the-badge&labelColor=0f172a&logo=google-chrome&logoColor=white" alt="Visit LibreAuth"/>
 </a>
 
-<br/><br/>
-
 </td>
 <td width="50%" valign="top" align="center">
 
 <a href="https://veil.nutexe.dev/">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A855F7,50:7c3aed,100:5b21b6&height=96&section=header&text=Veil&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Veil"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A855F7,50:7c3aed,100:5b21b6&height=100&section=header&text=Veil&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Veil"/>
 </a>
 
 <br/>
 
 <sub><b>LUA & JS OBFUSCATOR ONLINE</b></sub>
+
+<br/>
+
+<sub><i>VM wrap · String encryption · Control-flow · FiveM · Roblox · Node.js</i></sub>
 
 <br/><br/>
 
@@ -99,162 +137,159 @@
 <img src="https://img.shields.io/badge/→%20veil.nutexe.dev-A855F7?style=for-the-badge&labelColor=0f172a&logo=google-chrome&logoColor=white" alt="Visit Veil"/>
 </a>
 
-<br/><br/>
-
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/>
-
-## 🧩 17 SDK Languages
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0d1117&height=80&section=header&text=%F0%9F%A7%A9%2017%20SDK%20Languages&fontSize=30&fontColor=ffffff&animation=gradient"/>
+
+</div>
 
 <table cellpadding="10" cellspacing="0">
 <tr>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#"/><br/><sub><b>C#</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++"/><br/><sub><b>C++</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="36" height="36" alt="WPF"/><br/><sub><b>WPF</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/><br/><sub><b>Python</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java"/><br/><sub><b>Java</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="36" height="36" alt="VB.NET"/><br/><sub><b>VB.NET</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" height="36" alt="PHP"/><br/><sub><b>PHP</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38" height="38" alt="C#"/><br/><sub><b>C#</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++"/><br/><sub><b>C++</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="38" height="38" alt="WPF"/><br/><sub><b>WPF</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38" alt="Java"/><br/><sub><b>Java</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript"/><br/><sub><b>JS</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript"/><br/><sub><b>TS</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="38" height="38" alt="VB.NET"/><br/><sub><b>VB.NET</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="38" height="38" alt="PHP"/><br/><sub><b>PHP</b></sub></td>
 </tr>
 <tr>
 <td align="center" colspan="9">
-<table cellpadding="6" cellspacing="0">
-<tr>
-<td align="center" width="76"><img src="https://cdn.simpleicons.org/rust/DEA584" width="36" height="36" alt="Rust"/><br/><sub><b>Rust</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Go"/><br/><sub><b>Go</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" width="36" height="36" alt="Lua"/><br/><sub><b>Lua</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="36" height="36" alt="Ruby"/><br/><sub><b>Ruby</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-plain.svg" width="36" height="36" alt="Perl"/><br/><sub><b>Perl</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/><br/><sub><b>React</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue"/><br/><sub><b>Vue</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="36" height="36" alt="Unity"/><br/><sub><b>Unity</b></sub></td>
-</tr>
-</table>
+<table cellpadding="8" cellspacing="0"><tr>
+<td align="center" width="76"><img src="https://cdn.simpleicons.org/rust/DEA584" width="38" height="38" alt="Rust"/><br/><sub><b>Rust</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="38" height="38" alt="Go"/><br/><sub><b>Go</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" width="38" height="38" alt="Lua"/><br/><sub><b>Lua</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="38" height="38" alt="Ruby"/><br/><sub><b>Ruby</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-plain.svg" width="38" height="38" alt="Perl"/><br/><sub><b>Perl</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="38" height="38" alt="Vue"/><br/><sub><b>Vue</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="38" height="38" alt="Unity"/><br/><sub><b>Unity</b></sub></td>
+</tr></table>
 </td>
 </tr>
 </table>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <br/>
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0d1117&height=80&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=30&fontColor=ffffff&animation=gradient"/>
+
+</div>
 
 <table cellpadding="8" cellspacing="0" width="100%">
 
-<tr>
-<td align="center" colspan="3" height="28"><sub>────── &nbsp; <b>FRAMEWORK & RUNTIME</b> &nbsp; ──────</sub></td>
-</tr>
-<tr>
-<td align="center" colspan="3">
-<table cellpadding="6" cellspacing="0"><tr>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/><br/><sub><b>React</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+<tr><td align="center" colspan="3" height="26"><sub>────── &nbsp; <b>FRAMEWORK & RUNTIME</b> &nbsp; ──────</sub></td></tr>
+<tr><td align="center" colspan="3">
+<table cellpadding="6"><tr>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38" height="38"/><br/><sub><b>Next.js</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38"/><br/><sub><b>TS</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38"/><br/><sub><b>Node.js</b></sub></td>
 </tr></table>
-</td>
-</tr>
+</td></tr>
 
-<tr>
-<td align="center" colspan="3" height="28"><sub>────── &nbsp; <b>DATABASES</b> &nbsp; ──────</sub></td>
-</tr>
-<tr>
-<td align="center" colspan="3">
-<table cellpadding="6" cellspacing="0"><tr>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="36" height="36" alt="MariaDB"/><br/><sub><b>MariaDB</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
+<tr><td align="center" colspan="3" height="26"><sub>────── &nbsp; <b>DATABASES</b> &nbsp; ──────</sub></td></tr>
+<tr><td align="center" colspan="3">
+<table cellpadding="6"><tr>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" height="38"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="38" height="38"/><br/><sub><b>MariaDB</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" height="38"/><br/><sub><b>MongoDB</b></sub></td>
 </tr></table>
-</td>
-</tr>
+</td></tr>
 
-<tr>
-<td align="center" colspan="3" height="28"><sub>────── &nbsp; <b>DEVOPS & MONITORING</b> &nbsp; ──────</sub></td>
-</tr>
-<tr>
-<td align="center" colspan="3">
-<table cellpadding="6" cellspacing="0"><tr>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/><br/><sub><b>Git</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="36" height="36" alt="Cloudflare"/><br/><sub><b>Cloudflare</b></sub></td>
+<tr><td align="center" colspan="3" height="26"><sub>────── &nbsp; <b>DEVOPS & MONITORING</b> &nbsp; ──────</sub></td></tr>
+<tr><td align="center" colspan="3">
+<table cellpadding="6"><tr>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="38" height="38"/><br/><sub><b>Cloudflare</b></sub></td>
 </tr></table>
-</td>
-</tr>
+</td></tr>
 
-<tr>
-<td align="center" colspan="3" height="28"><sub>────── &nbsp; <b>ENVIRONMENTS</b> &nbsp; ──────</sub></td>
-</tr>
-<tr>
-<td align="center" colspan="3">
-<table cellpadding="6" cellspacing="0"><tr>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.simpleicons.org/vmware/607078" width="36" height="36" alt="VMware"/><br/><sub><b>VMware</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.simpleicons.org/portainer/13BEF9" width="36" height="36" alt="Portainer"/><br/><sub><b>Portainer</b></sub></td>
+<tr><td align="center" colspan="3" height="26"><sub>────── &nbsp; <b>ENVIRONMENTS</b> &nbsp; ──────</sub></td></tr>
+<tr><td align="center" colspan="3">
+<table cellpadding="6"><tr>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" height="38"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.simpleicons.org/vmware/607078" width="38" height="38"/><br/><sub><b>VMware</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.simpleicons.org/portainer/13BEF9" width="38" height="38"/><br/><sub><b>Portainer</b></sub></td>
 </tr></table>
-</td>
-</tr>
+</td></tr>
 
-<tr>
-<td align="center" colspan="3" height="28"><sub>────── &nbsp; <b>OS</b> &nbsp; ──────</sub></td>
-</tr>
-<tr>
-<td align="center" colspan="3">
-<table cellpadding="6" cellspacing="0"><tr>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="36" height="36" alt="Kali Linux"/><br/><sub><b>Kali Linux</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="36" height="36" alt="Ubuntu"/><br/><sub><b>Ubuntu</b></sub></td>
-<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="36" height="36" alt="Windows"/><br/><sub><b>Windows</b></sub></td>
+<tr><td align="center" colspan="3" height="26"><sub>────── &nbsp; <b>OS</b> &nbsp; ──────</sub></td></tr>
+<tr><td align="center" colspan="3">
+<table cellpadding="6"><tr>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="38" height="38"/><br/><sub><b>Kali</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="38" height="38"/><br/><sub><b>Ubuntu</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="38" height="38"/><br/><sub><b>Windows</b></sub></td>
 </tr></table>
-</td>
-</tr>
+</td></tr>
 
 </table>
 
-</td>
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0d1117&height=80&section=header&text=%F0%9F%92%BC%20What%20I%20Do&fontSize=30&fontColor=ffffff&animation=gradient"/>
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/🛡️-Cyber_Security-10b981?style=for-the-badge&labelColor=0f172a"/></td>
+<td width="75%"><sub>Pentest · Vulnerability analysis · Hardening · Ed25519 signed APIs</sub></td>
+</tr>
+<tr>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/🌐-Web_Dev-3b82f6?style=for-the-badge&labelColor=0f172a"/></td>
+<td width="75%"><sub>Next.js · React · Full Stack · Cloud deploy · Performance-first UX</sub></td>
+</tr>
+<tr>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/🤖-Bot_Dev-8B5CF6?style=for-the-badge&labelColor=0f172a"/></td>
+<td width="75%"><sub>Discord bots · API automation · Real-time workflows · Webhooks</sub></td>
+</tr>
+<tr>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/🎮-FiveM_Lua-f43f5e?style=for-the-badge&labelColor=0f172a"/></td>
+<td width="75%"><sub>Production Lua · OneSync · Server-side validation · Anti-tamper</sub></td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0d1117&height=80&section=header&text=%F0%9F%93%88%20Activity&fontSize=30&fontColor=ffffff&animation=gradient"/>
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nutexe999&theme=react&hide_border=true&bg_color=0d1117&color=8B5CF6&line=22D3EE&point=FFFFFF&area=true&height=300)](https://github.com/Nutexe999)
 
 </div>
 
 <br/>
 
-## 💼 What I Do
+<div align="center">
 
-| Area | Focus |
-|------|--------|
-| **Cyber Security** | Vulnerability analysis, pentest, hardening |
-| **Web Development** | Next.js, React, Full Stack, Cloud deploy |
-| **Bot Development** | Discord bots, API automation, real-time workflows |
-| **FiveM / Lua** | Production scripts, OneSync, server-side security |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:0d1117&height=80&section=header&text=%F0%9F%93%AB%20Connect&fontSize=30&fontColor=ffffff&animation=gradient"/>
 
-<br/>
-
-## 📫 Connect
+</div>
 
 <p align="center">
   <a href="https://nutexe.dev"><img src="https://img.shields.io/badge/Website-nutexe.dev-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://libreauth.nutexe.dev/"><img src="https://img.shields.io/badge/LibreAuth-22D3EE?style=for-the-badge&logo=shield&logoColor=white" alt="LibreAuth"/></a>
+  <a href="https://veil.nutexe.dev/"><img src="https://img.shields.io/badge/Veil-A855F7?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Veil"/></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Nutexe999"><img src="https://img.shields.io/badge/GitHub-Nutexe999-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.instagram.com/nutexe999/"><img src="https://img.shields.io/badge/Instagram-@nutexe999-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.tiktok.com/@nut.exe_999"><img src="https://img.shields.io/badge/TikTok-@nut.exe__999-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
@@ -265,10 +300,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Nutexe999&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile views"/>
-
-<br/><br/>
-
-**`Nut.exe`** — *Own your stack. Ship with confidence.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0d1117&height=130&section=footer&text=Nut.exe&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Own%20your%20stack.%20Ship%20with%20confidence.&descSize=14&descAlignY=75&descAlign=55"/>
 
 </div>
