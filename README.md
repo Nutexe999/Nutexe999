@@ -1,8 +1,8 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0d1117&height=210&section=header&text=Nut.exe&fontSize=78&fontColor=ffffff&animation=gradient&desc=Peeranut%20Ninsai%20%C2%B7%20Fullstack%20Developer&descSize=17&descAlignY=76&descAlign=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0d1117&height=210&section=header&text=Nut.exe&fontSize=78&fontColor=ffffff&animation=gradient&desc=Peeranut%20Ninsai%20%7C%20Fullstack%20Developer&descSize=17&descAlignY=76&descAlign=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Cyber+Security+%C2%B7+FiveM+Lua+%C2%B7+Discord+Bot;Self--Hosted+Auth+%C2%B7+Code+Protection;Building+LibreAuth+%26+Veil" alt="Typing tagline"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Cyber+Security+%7C+FiveM+Lua+%7C+Discord+Bot;Self--Hosted+Auth+%7C+Code+Protection;Building+LibreAuth+%26+Veil" alt="Typing tagline"/>
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 </div>
 
-> **Peeranut Ninsai** ΓÇö known as **`Nut.exe`** ┬╖ Fullstack Developer from Thailand  
+> **Peeranut Ninsai** - known as **`Nut.exe`** | Fullstack Developer from Thailand  
 > I build **self-hosted auth**, **code protection**, **Discord bots** & **FiveM** systems for production scale.
 
 <br/>
@@ -72,7 +72,7 @@
 
 <br/>
 
-<sub><i>License keys ┬╖ HWID lock ┬╖ Subscriptions ┬╖ Webhooks ┬╖ 17 SDKs</i></sub>
+<sub>License keys / HWID lock / Subscriptions / Webhooks / 17 SDKs</sub>
 
 <br/><br/>
 
@@ -106,7 +106,7 @@
 
 <br/>
 
-<sub><i>VM wrap ┬╖ String encryption ┬╖ Control-flow ┬╖ FiveM ┬╖ Roblox ┬╖ Node.js</i></sub>
+<sub>VM wrap / String encryption / Control-flow / FiveM / Roblox / Node.js</sub>
 
 <br/><br/>
 
@@ -177,7 +177,7 @@
 
 <table cellpadding="8" cellspacing="0" width="100%">
 
-<tr><td align="center" colspan="3" height="26"><sub>ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ &nbsp; <b>FRAMEWORK & RUNTIME</b> &nbsp; ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ</sub></td></tr>
+<tr><td align="center" colspan="3" height="26"><sub><b>FRAMEWORK &amp; RUNTIME</b></sub></td></tr>
 <tr><td align="center" colspan="3">
 <table cellpadding="6"><tr>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38" height="38"/><br/><sub><b>Next.js</b></sub></td>
@@ -187,7 +187,7 @@
 </tr></table>
 </td></tr>
 
-<tr><td align="center" colspan="3" height="26"><sub>ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ &nbsp; <b>DATABASES</b> &nbsp; ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ</sub></td></tr>
+<tr><td align="center" colspan="3" height="26"><sub><b>DATABASES</b></sub></td></tr>
 <tr><td align="center" colspan="3">
 <table cellpadding="6"><tr>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" height="38"/><br/><sub><b>PostgreSQL</b></sub></td>
@@ -196,7 +196,7 @@
 </tr></table>
 </td></tr>
 
-<tr><td align="center" colspan="3" height="26"><sub>ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ &nbsp; <b>DEVOPS & MONITORING</b> &nbsp; ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ</sub></td></tr>
+<tr><td align="center" colspan="3" height="26"><sub><b>DEVOPS &amp; MONITORING</b></sub></td></tr>
 <tr><td align="center" colspan="3">
 <table cellpadding="6"><tr>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38"/><br/><sub><b>Git</b></sub></td>
@@ -204,7 +204,7 @@
 </tr></table>
 </td></tr>
 
-<tr><td align="center" colspan="3" height="26"><sub>ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ &nbsp; <b>ENVIRONMENTS</b> &nbsp; ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ</sub></td></tr>
+<tr><td align="center" colspan="3" height="26"><sub><b>ENVIRONMENTS</b></sub></td></tr>
 <tr><td align="center" colspan="3">
 <table cellpadding="6"><tr>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" height="38"/><br/><sub><b>Docker</b></sub></td>
@@ -213,7 +213,7 @@
 </tr></table>
 </td></tr>
 
-<tr><td align="center" colspan="3" height="26"><sub>ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ &nbsp; <b>OS</b> &nbsp; ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ</sub></td></tr>
+<tr><td align="center" colspan="3" height="26"><sub><b>OS</b></sub></td></tr>
 <tr><td align="center" colspan="3">
 <table cellpadding="6"><tr>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="38" height="38"/><br/><sub><b>Kali</b></sub></td>
@@ -238,28 +238,28 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="32" height="32" alt="Security"/><br/>
 <img src="https://img.shields.io/badge/Security-10b981?style=flat-square&labelColor=0f172a&logo=hackthebox&logoColor=white" alt="Security"/>
 </td>
-<td width="78%" valign="middle"><sub>Pentest ┬╖ Vulnerability analysis ┬╖ Hardening ┬╖ Ed25519 signed APIs</sub></td>
+<td width="78%" valign="middle"><sub>Pentest / Vulnerability analysis / Hardening / Ed25519 signed APIs</sub></td>
 </tr>
 <tr>
 <td width="22%" align="center" valign="top">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Web"/><br/>
 <img src="https://img.shields.io/badge/Web-3b82f6?style=flat-square&labelColor=0f172a&logo=nextdotjs&logoColor=white" alt="Web"/>
 </td>
-<td width="78%" valign="middle"><sub>Next.js ┬╖ React ┬╖ Full Stack ┬╖ Cloud deploy ┬╖ Performance-first UX</sub></td>
+<td width="78%" valign="middle"><sub>Next.js / React / Full Stack / Cloud deploy / Performance-first UX</sub></td>
 </tr>
 <tr>
 <td width="22%" align="center" valign="top">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="32" height="32" alt="Bots"/><br/>
 <img src="https://img.shields.io/badge/Bots-8B5CF6?style=flat-square&labelColor=0f172a&logo=discord&logoColor=white" alt="Bots"/>
 </td>
-<td width="78%" valign="middle"><sub>Discord bots ┬╖ API automation ┬╖ Real-time workflows ┬╖ Webhooks</sub></td>
+<td width="78%" valign="middle"><sub>Discord bots / API automation / Real-time workflows / Webhooks</sub></td>
 </tr>
 <tr>
 <td width="22%" align="center" valign="top">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" width="32" height="32" alt="FiveM"/><br/>
 <img src="https://img.shields.io/badge/FiveM-f43f5e?style=flat-square&labelColor=0f172a&logo=lua&logoColor=white" alt="FiveM"/>
 </td>
-<td width="78%" valign="middle"><sub>Production Lua ┬╖ OneSync ┬╖ Server-side validation ┬╖ Anti-tamper</sub></td>
+<td width="78%" valign="middle"><sub>Production Lua / OneSync / Server-side validation / Anti-tamper</sub></td>
 </tr>
 </table>
 
@@ -307,9 +307,9 @@
 </div>
 
 <!--
-Trophies — uncomment when you want them on profile:
+Trophies - uncomment when you want them on profile:
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Nutexe999&theme=discord&no-frame=true&margin-w=8&column=4)](https://github.com/Nutexe999)
 
-Snake — uncomment after running .github/workflows/snake.yml once (branch output must exist):
+Snake - uncomment after running .github/workflows/snake.yml once (branch output must exist):
 <img src="https://raw.githubusercontent.com/Nutexe999/Nutexe999/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 -->
