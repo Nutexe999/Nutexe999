@@ -34,102 +34,78 @@
 
 ## 🚀 Projects
 
-<table width="100%" cellpadding="0" cellspacing="0">
+<div align="center">
+
+<table width="100%" cellpadding="8" cellspacing="0">
 <tr>
 <td width="50%" valign="top" align="center">
 
-<table width="94%" cellpadding="6" cellspacing="0">
-<tr>
-<td align="left" height="22"><sub><b>SELF-HOSTED AUTHENTICATION</b></sub></td>
-</tr>
-<tr>
-<td align="left" height="30"><h3><a href="https://libreauth.nutexe.dev/">LibreAuth</a></h3></td>
-</tr>
-<tr>
-<td align="left" height="68" valign="top">
-<sub>License keys · HWID lock · Subscriptions · Webhooks — deploy บนเซิร์ฟเวอร์ของคุณเอง</sub>
-</td>
-</tr>
-<tr>
-<td align="center" height="58" valign="middle">
-<table cellpadding="3" cellspacing="0" width="100%">
-<tr>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/License_Keys-22D3EE?style=flat-square&labelColor=161b22" alt="License Keys"/></td>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/HWID_Lock-22D3EE?style=flat-square&labelColor=161b22" alt="HWID Lock"/></td>
-</tr>
-<tr>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/17_SDKs-22D3EE?style=flat-square&labelColor=161b22" alt="17 SDKs"/></td>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/Webhooks-22D3EE?style=flat-square&labelColor=161b22" alt="Webhooks"/></td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td align="center" height="56" valign="middle">
-<table cellpadding="4" cellspacing="0" width="100%">
-<tr>
-<td align="center" width="50%"><sub>API</sub><br/><b>v1.3</b></td>
-<td align="center" width="50%"><sub>HOSTING</sub><br/><b>Self-Hosted</b></td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td align="center" height="36" valign="bottom">
-<a href="https://libreauth.nutexe.dev/"><img src="https://img.shields.io/badge/Visit-libreauth.nutexe.dev-22D3EE?style=for-the-badge&labelColor=161b22" alt="Visit LibreAuth"/></a>
-</td>
-</tr>
-</table>
+<a href="https://libreauth.nutexe.dev/">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:22D3EE,50:0e7490,100:164e63&height=96&section=header&text=LibreAuth&fontSize=40&fontColor=ffffff&animation=twinkling" alt="LibreAuth"/>
+</a>
+
+<br/>
+
+<sub><b>SELF-HOSTED AUTHENTICATION PLATFORM</b></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/License%20Keys-22D3EE?style=plastic&labelColor=0f172a" alt="License Keys"/>
+<img src="https://img.shields.io/badge/HWID%20Lock-22D3EE?style=plastic&labelColor=0f172a" alt="HWID Lock"/>
+<br/>
+<img src="https://img.shields.io/badge/17%20SDKs-22D3EE?style=plastic&labelColor=0f172a" alt="17 SDKs"/>
+<img src="https://img.shields.io/badge/Webhooks-22D3EE?style=plastic&labelColor=0f172a" alt="Webhooks"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/API-v1.3-22D3EE?style=for-the-badge&labelColor=0f172a&logo=fastapi&logoColor=white" alt="API v1.3"/>
+<img src="https://img.shields.io/badge/Hosting-Self--Hosted-22D3EE?style=for-the-badge&labelColor=0f172a&logo=server&logoColor=white" alt="Self-Hosted"/>
+
+<br/><br/>
+
+<a href="https://libreauth.nutexe.dev/">
+<img src="https://img.shields.io/badge/→%20libreauth.nutexe.dev-22D3EE?style=for-the-badge&labelColor=0f172a&logo=google-chrome&logoColor=white" alt="Visit LibreAuth"/>
+</a>
+
+<br/><br/>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<table width="94%" cellpadding="6" cellspacing="0">
-<tr>
-<td align="left" height="22"><sub><b>LUA & JS OBFUSCATOR</b></sub></td>
-</tr>
-<tr>
-<td align="left" height="30"><h3><a href="https://veil.nutexe.dev/">Veil</a></h3></td>
-</tr>
-<tr>
-<td align="left" height="68" valign="top">
-<sub>VM wrap · String encryption · Control-flow — ปกป้องสคริปต์ FiveM, Roblox และ Node.js</sub>
-</td>
-</tr>
-<tr>
-<td align="center" height="58" valign="middle">
-<table cellpadding="3" cellspacing="0" width="100%">
-<tr>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/VM_Wrap-A855F7?style=flat-square&labelColor=161b22" alt="VM Wrap"/></td>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/FiveM_Lua-A855F7?style=flat-square&labelColor=161b22" alt="FiveM Lua"/></td>
-</tr>
-<tr>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/17_Langs-A855F7?style=flat-square&labelColor=161b22" alt="17 Langs"/></td>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/Anti--Tamper-A855F7?style=flat-square&labelColor=161b22" alt="Anti-Tamper"/></td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td align="center" height="56" valign="middle">
-<table cellpadding="4" cellspacing="0" width="100%">
-<tr>
-<td align="center" width="50%"><sub>FREE PLAN</sub><br/><b>3 runs/day</b></td>
-<td align="center" width="50%"><sub>UPTIME</sub><br/><b>99.9%</b></td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td align="center" height="36" valign="bottom">
-<a href="https://veil.nutexe.dev/"><img src="https://img.shields.io/badge/Visit-veil.nutexe.dev-A855F7?style=for-the-badge&labelColor=161b22" alt="Visit Veil"/></a>
-</td>
-</tr>
-</table>
+<a href="https://veil.nutexe.dev/">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A855F7,50:7c3aed,100:5b21b6&height=96&section=header&text=Veil&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Veil"/>
+</a>
+
+<br/>
+
+<sub><b>LUA & JS OBFUSCATOR ONLINE</b></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/VM%20Wrap-A855F7?style=plastic&labelColor=0f172a" alt="VM Wrap"/>
+<img src="https://img.shields.io/badge/FiveM%20Lua-A855F7?style=plastic&labelColor=0f172a" alt="FiveM Lua"/>
+<br/>
+<img src="https://img.shields.io/badge/17%20Langs-A855F7?style=plastic&labelColor=0f172a" alt="17 Langs"/>
+<img src="https://img.shields.io/badge/Anti--Tamper-A855F7?style=plastic&labelColor=0f172a" alt="Anti-Tamper"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Free%20Plan-3%20runs%2Fday-A855F7?style=for-the-badge&labelColor=0f172a&logo=clockify&logoColor=white" alt="Free Plan"/>
+<img src="https://img.shields.io/badge/Uptime-99.9%25-A855F7?style=for-the-badge&labelColor=0f172a&logo=statuspage&logoColor=white" alt="Uptime"/>
+
+<br/><br/>
+
+<a href="https://veil.nutexe.dev/">
+<img src="https://img.shields.io/badge/→%20veil.nutexe.dev-A855F7?style=for-the-badge&labelColor=0f172a&logo=google-chrome&logoColor=white" alt="Visit Veil"/>
+</a>
+
+<br/><br/>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
