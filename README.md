@@ -248,7 +248,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=8B5CF6&height=48&section=header&text=EXPERTISE&fontSize=20&fontColor=ffffff&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=8B5CF6&height=44&section=header&text=EXPERTISE&fontSize=19&fontColor=ffffff&fontAlignY=40"/>
 
 </div>
 
@@ -257,31 +257,62 @@
 <table border="0" cellpadding="0" cellspacing="0" align="center">
 <tr><td align="center">
 
-<table border="0" cellpadding="8" cellspacing="0" align="center">
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+
 <tr>
-<td align="center" valign="middle">
-<img src="https://img.shields.io/badge/Security-10b981?style=for-the-badge&labelColor=0f172a&logo=hackthebox&logoColor=white" alt="Security"/><br/><br/>
-<sub>Pentest / Vulnerability analysis / Hardening / Ed25519 signed APIs</sub>
+<td align="center" height="88" valign="middle">
+<img src="https://img.shields.io/badge/CYBER-SECURITY-10b981?style=for-the-badge&labelColor=0f172a&logo=hackthebox&logoColor=white" alt="Cyber Security"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Pentest-10b981?style=plastic&labelColor=0f172a" alt="Pentest"/>
+<img src="https://img.shields.io/badge/Vulnerability-10b981?style=plastic&labelColor=0f172a" alt="Vulnerability"/>
+<br/>
+<img src="https://img.shields.io/badge/Hardening-10b981?style=plastic&labelColor=0f172a" alt="Hardening"/>
+<img src="https://img.shields.io/badge/Ed25519%20APIs-10b981?style=plastic&labelColor=0f172a" alt="Ed25519"/>
 </td>
 </tr>
+
+<tr><td height="14"></td></tr>
+
 <tr>
-<td align="center" valign="middle">
-<img src="https://img.shields.io/badge/Web-3b82f6?style=for-the-badge&labelColor=0f172a&logo=nextdotjs&logoColor=white" alt="Web"/><br/><br/>
-<sub>Next.js / React / Full Stack / Cloud deploy / Performance-first UX</sub>
+<td align="center" height="88" valign="middle">
+<img src="https://img.shields.io/badge/WEB-DEVELOPMENT-3b82f6?style=for-the-badge&labelColor=0f172a&logo=nextdotjs&logoColor=white" alt="Web Development"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-3b82f6?style=plastic&labelColor=0f172a" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-3b82f6?style=plastic&labelColor=0f172a" alt="React"/>
+<br/>
+<img src="https://img.shields.io/badge/Full%20Stack-3b82f6?style=plastic&labelColor=0f172a" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/Cloud%20Deploy-3b82f6?style=plastic&labelColor=0f172a" alt="Cloud Deploy"/>
 </td>
 </tr>
+
+<tr><td height="14"></td></tr>
+
 <tr>
-<td align="center" valign="middle">
-<img src="https://img.shields.io/badge/Bots-8B5CF6?style=for-the-badge&labelColor=0f172a&logo=discord&logoColor=white" alt="Bots"/><br/><br/>
-<sub>Discord bots / API automation / Real-time workflows / Webhooks</sub>
+<td align="center" height="88" valign="middle">
+<img src="https://img.shields.io/badge/BOT-DEVELOPMENT-8B5CF6?style=for-the-badge&labelColor=0f172a&logo=discord&logoColor=white" alt="Bot Development"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Discord%20Bots-8B5CF6?style=plastic&labelColor=0f172a" alt="Discord Bots"/>
+<img src="https://img.shields.io/badge/API%20Automation-8B5CF6?style=plastic&labelColor=0f172a" alt="API Automation"/>
+<br/>
+<img src="https://img.shields.io/badge/Real--time-8B5CF6?style=plastic&labelColor=0f172a" alt="Real-time"/>
+<img src="https://img.shields.io/badge/Webhooks-8B5CF6?style=plastic&labelColor=0f172a" alt="Webhooks"/>
 </td>
 </tr>
+
+<tr><td height="14"></td></tr>
+
 <tr>
-<td align="center" valign="middle">
-<img src="https://img.shields.io/badge/FiveM-f43f5e?style=for-the-badge&labelColor=0f172a&logo=lua&logoColor=white" alt="FiveM"/><br/><br/>
-<sub>Production Lua / OneSync / Server-side validation / Anti-tamper</sub>
+<td align="center" height="88" valign="middle">
+<img src="https://img.shields.io/badge/FIVEM-LUA-f43f5e?style=for-the-badge&labelColor=0f172a&logo=lua&logoColor=white" alt="FiveM Lua"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Production%20Lua-f43f5e?style=plastic&labelColor=0f172a" alt="Production Lua"/>
+<img src="https://img.shields.io/badge/OneSync-f43f5e?style=plastic&labelColor=0f172a" alt="OneSync"/>
+<br/>
+<img src="https://img.shields.io/badge/Server%20Validation-f43f5e?style=plastic&labelColor=0f172a" alt="Server Validation"/>
+<img src="https://img.shields.io/badge/Anti--Tamper-f43f5e?style=plastic&labelColor=0f172a" alt="Anti-Tamper"/>
 </td>
 </tr>
+
 </table>
 
 </td></tr>
