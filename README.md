@@ -75,6 +75,9 @@
 
 <table>
 <tr>
+<td align="center" colspan="9"><sub><b>OFFICIAL SDK COVERAGE</b></sub></td>
+</tr>
+<tr>
 <td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/><sub><b>C#</b></sub></td>
 <td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br/><sub><b>C++</b></sub></td>
 <td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="WPF"/><br/><sub><b>WPF</b></sub></td>
@@ -104,9 +107,40 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,py,php,go,java,cs,cpp,lua,docker,postgres,mongodb,git,cloudflare,kali" alt="Tech stack" />
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" colspan="9"><sub><b>FRAMEWORK & RUNTIME</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/><sub><b>TS</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br/><sub><b>PHP</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/><br/><sub><b>Go</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/><sub><b>Git</b></sub></td>
+</tr>
+<tr>
+<td align="center" colspan="9"><sub><b>DATABASES · CLOUD · OS</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br/><sub><b>Postgres</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" height="40" alt="MariaDB"/><br/><sub><b>MariaDB</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" height="40" alt="Cloudflare"/><br/><sub><b>Cloudflare</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.simpleicons.org/portainer/13BEF9" width="40" height="40" alt="Portainer"/><br/><sub><b>Portainer</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="40" height="40" alt="Kali"/><br/><sub><b>Kali</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu"/><br/><sub><b>Ubuntu</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"/><br/><sub><b>Windows</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="VMware"/><br/><sub><b>VMware</b></sub></td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
