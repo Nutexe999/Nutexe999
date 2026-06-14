@@ -139,7 +139,12 @@
 
 </div>
 
-<table cellpadding="10" cellspacing="0">
+<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+<tr><td align="center">
+
+<table border="0" cellpadding="10" cellspacing="0" align="center">
 <tr>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38" height="38" alt="C#"/><br/><sub><b>C#</b></sub></td>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++"/><br/><sub><b>C++</b></sub></td>
@@ -153,7 +158,7 @@
 </tr>
 <tr>
 <td align="center" colspan="9">
-<table cellpadding="8" cellspacing="0"><tr>
+<table border="0" cellpadding="8" cellspacing="0" align="center"><tr>
 <td align="center" width="76"><img src="https://cdn.simpleicons.org/rust/DEA584" width="38" height="38" alt="Rust"/><br/><sub><b>Rust</b></sub></td>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="38" height="38" alt="Go"/><br/><sub><b>Go</b></sub></td>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" width="38" height="38" alt="Lua"/><br/><sub><b>Lua</b></sub></td>
@@ -167,6 +172,11 @@
 </tr>
 </table>
 
+</td></tr>
+</table>
+
+</div>
+
 <br/>
 
 <div align="center">
@@ -175,11 +185,16 @@
 
 </div>
 
-<table cellpadding="8" cellspacing="0" width="100%">
+<div align="center">
 
-<tr><td align="center" colspan="3" height="26"><sub><b>FRAMEWORK &amp; RUNTIME</b></sub></td></tr>
-<tr><td align="center" colspan="3">
-<table cellpadding="6"><tr>
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+<tr><td align="center">
+
+<table border="0" cellpadding="8" cellspacing="0" align="center">
+
+<tr><td align="center" height="26"><sub><b>FRAMEWORK &amp; RUNTIME</b></sub></td></tr>
+<tr><td align="center">
+<table border="0" cellpadding="6" cellspacing="0" align="center"><tr>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38" height="38"/><br/><sub><b>Next.js</b></sub></td>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38"/><br/><sub><b>React</b></sub></td>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38"/><br/><sub><b>TS</b></sub></td>
@@ -187,35 +202,35 @@
 </tr></table>
 </td></tr>
 
-<tr><td align="center" colspan="3" height="26"><sub><b>DATABASES</b></sub></td></tr>
-<tr><td align="center" colspan="3">
-<table cellpadding="6"><tr>
+<tr><td align="center" height="26"><sub><b>DATABASES</b></sub></td></tr>
+<tr><td align="center">
+<table border="0" cellpadding="6" cellspacing="0" align="center"><tr>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" height="38"/><br/><sub><b>PostgreSQL</b></sub></td>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="38" height="38"/><br/><sub><b>MariaDB</b></sub></td>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" height="38"/><br/><sub><b>MongoDB</b></sub></td>
 </tr></table>
 </td></tr>
 
-<tr><td align="center" colspan="3" height="26"><sub><b>DEVOPS &amp; MONITORING</b></sub></td></tr>
-<tr><td align="center" colspan="3">
-<table cellpadding="6"><tr>
+<tr><td align="center" height="26"><sub><b>DEVOPS &amp; MONITORING</b></sub></td></tr>
+<tr><td align="center">
+<table border="0" cellpadding="6" cellspacing="0" align="center"><tr>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38"/><br/><sub><b>Git</b></sub></td>
 <td align="center" width="76"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="38" height="38"/><br/><sub><b>Cloudflare</b></sub></td>
 </tr></table>
 </td></tr>
 
-<tr><td align="center" colspan="3" height="26"><sub><b>ENVIRONMENTS</b></sub></td></tr>
-<tr><td align="center" colspan="3">
-<table cellpadding="6"><tr>
+<tr><td align="center" height="26"><sub><b>ENVIRONMENTS</b></sub></td></tr>
+<tr><td align="center">
+<table border="0" cellpadding="6" cellspacing="0" align="center"><tr>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" height="38"/><br/><sub><b>Docker</b></sub></td>
 <td align="center" width="76"><img src="https://cdn.simpleicons.org/vmware/607078" width="38" height="38"/><br/><sub><b>VMware</b></sub></td>
 <td align="center" width="76"><img src="https://cdn.simpleicons.org/portainer/13BEF9" width="38" height="38"/><br/><sub><b>Portainer</b></sub></td>
 </tr></table>
 </td></tr>
 
-<tr><td align="center" colspan="3" height="26"><sub><b>OS</b></sub></td></tr>
-<tr><td align="center" colspan="3">
-<table cellpadding="6"><tr>
+<tr><td align="center" height="26"><sub><b>OS</b></sub></td></tr>
+<tr><td align="center">
+<table border="0" cellpadding="6" cellspacing="0" align="center"><tr>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="38" height="38"/><br/><sub><b>Kali</b></sub></td>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="38" height="38"/><br/><sub><b>Ubuntu</b></sub></td>
 <td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="38" height="38"/><br/><sub><b>Windows</b></sub></td>
@@ -223,6 +238,11 @@
 </td></tr>
 
 </table>
+
+</td></tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -232,36 +252,42 @@
 
 </div>
 
-<table width="100%" cellpadding="6" cellspacing="0">
+<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+<tr><td align="center">
+
+<table border="0" cellpadding="8" cellspacing="0" align="center">
 <tr>
-<td width="22%" align="center" valign="top">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="32" height="32" alt="Security"/><br/>
-<img src="https://img.shields.io/badge/Security-10b981?style=flat-square&labelColor=0f172a&logo=hackthebox&logoColor=white" alt="Security"/>
+<td align="center" valign="middle">
+<img src="https://img.shields.io/badge/Security-10b981?style=for-the-badge&labelColor=0f172a&logo=hackthebox&logoColor=white" alt="Security"/><br/><br/>
+<sub>Pentest / Vulnerability analysis / Hardening / Ed25519 signed APIs</sub>
 </td>
-<td width="78%" valign="middle"><sub>Pentest / Vulnerability analysis / Hardening / Ed25519 signed APIs</sub></td>
 </tr>
 <tr>
-<td width="22%" align="center" valign="top">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Web"/><br/>
-<img src="https://img.shields.io/badge/Web-3b82f6?style=flat-square&labelColor=0f172a&logo=nextdotjs&logoColor=white" alt="Web"/>
+<td align="center" valign="middle">
+<img src="https://img.shields.io/badge/Web-3b82f6?style=for-the-badge&labelColor=0f172a&logo=nextdotjs&logoColor=white" alt="Web"/><br/><br/>
+<sub>Next.js / React / Full Stack / Cloud deploy / Performance-first UX</sub>
 </td>
-<td width="78%" valign="middle"><sub>Next.js / React / Full Stack / Cloud deploy / Performance-first UX</sub></td>
 </tr>
 <tr>
-<td width="22%" align="center" valign="top">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="32" height="32" alt="Bots"/><br/>
-<img src="https://img.shields.io/badge/Bots-8B5CF6?style=flat-square&labelColor=0f172a&logo=discord&logoColor=white" alt="Bots"/>
+<td align="center" valign="middle">
+<img src="https://img.shields.io/badge/Bots-8B5CF6?style=for-the-badge&labelColor=0f172a&logo=discord&logoColor=white" alt="Bots"/><br/><br/>
+<sub>Discord bots / API automation / Real-time workflows / Webhooks</sub>
 </td>
-<td width="78%" valign="middle"><sub>Discord bots / API automation / Real-time workflows / Webhooks</sub></td>
 </tr>
 <tr>
-<td width="22%" align="center" valign="top">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" width="32" height="32" alt="FiveM"/><br/>
-<img src="https://img.shields.io/badge/FiveM-f43f5e?style=flat-square&labelColor=0f172a&logo=lua&logoColor=white" alt="FiveM"/>
+<td align="center" valign="middle">
+<img src="https://img.shields.io/badge/FiveM-f43f5e?style=for-the-badge&labelColor=0f172a&logo=lua&logoColor=white" alt="FiveM"/><br/><br/>
+<sub>Production Lua / OneSync / Server-side validation / Anti-tamper</sub>
 </td>
-<td width="78%" valign="middle"><sub>Production Lua / OneSync / Server-side validation / Anti-tamper</sub></td>
 </tr>
 </table>
+
+</td></tr>
+</table>
+
+</div>
 
 <br/>
 
