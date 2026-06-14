@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0d1117&height=210&section=header&text=Nut.exe&fontSize=78&fontColor=ffffff&animation=gradient&desc=Peeranut%20Ninsai%20%7C%20Fullstack%20Developer&descSize=17&descAlignY=76&descAlign=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0d1117&height=200&section=header&text=Nut.exe&fontSize=72&fontColor=ffffff&animation=gradient&fontAlignY=42&desc=Peeranut%20Ninsai%20%7C%20Fullstack%20Developer&descSize=16&descAlignY=73&descAlign=50"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Cyber+Security+%7C+FiveM+Lua+%7C+Discord+Bot;Self--Hosted+Auth+%7C+Code+Protection;Building+LibreAuth+%26+Veil" alt="Typing tagline"/>
 
@@ -302,7 +302,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0d1117&height=120&section=footer&text=Nut.exe&fontSize=44&fontColor=ffffff&animation=gradient&desc=Own%20your%20stack.%20Ship%20with%20confidence.&descSize=13&descAlignY=74&descAlign=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:22D3EE,100:0d1117&height=120&section=footer&text=Nut.exe&fontSize=44&fontColor=ffffff&animation=gradient&fontAlignY=42&desc=Own%20your%20stack.%20Ship%20with%20confidence.&descSize=13&descAlignY=74&descAlign=50"/>
 
 </div>
 
