@@ -75,29 +75,39 @@
 
 <table>
 <tr>
-<td align="center" colspan="9"><sub><b>OFFICIAL SDK COVERAGE</b></sub></td>
+<td align="center">
+
+<table cellpadding="10" cellspacing="0">
+<tr>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#"/><br/><sub><b>C#</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++"/><br/><sub><b>C++</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="36" height="36" alt="WPF"/><br/><sub><b>WPF</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java"/><br/><sub><b>Java</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="36" height="36" alt="VB.NET"/><br/><sub><b>VB.NET</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" height="36" alt="PHP"/><br/><sub><b>PHP</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/><sub><b>C#</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br/><sub><b>C++</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="WPF"/><br/><sub><b>WPF</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/><sub><b>Python</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/><sub><b>Java</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/><sub><b>JS</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/><sub><b>TS</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="VB.NET"/><br/><sub><b>VB.NET</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br/><sub><b>PHP</b></sub></td>
-</tr>
+<td align="center" colspan="9">
+<table cellpadding="6" cellspacing="0">
 <tr>
-<td align="center" width="72"><img src="https://cdn.simpleicons.org/rust/DEA584" width="40" height="40" alt="Rust"/><br/><sub><b>Rust</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/><br/><sub><b>Go</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" width="40" height="40" alt="Lua"/><br/><sub><b>Lua</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby"/><br/><sub><b>Ruby</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-plain.svg" width="40" height="40" alt="Perl"/><br/><sub><b>Perl</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/><sub><b>React</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue"/><br/><sub><b>Vue</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/><br/><sub><b>Unity</b></sub></td>
-<td align="center" width="72"></td>
+<td align="center" width="76"><img src="https://cdn.simpleicons.org/rust/DEA584" width="36" height="36" alt="Rust"/><br/><sub><b>Rust</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Go"/><br/><sub><b>Go</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" width="36" height="36" alt="Lua"/><br/><sub><b>Lua</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="36" height="36" alt="Ruby"/><br/><sub><b>Ruby</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-plain.svg" width="36" height="36" alt="Perl"/><br/><sub><b>Perl</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue"/><br/><sub><b>Vue</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="36" height="36" alt="Unity"/><br/><sub><b>Unity</b></sub></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+</td>
 </tr>
 </table>
 
@@ -111,32 +121,78 @@
 
 <table>
 <tr>
-<td align="center" colspan="9"><sub><b>FRAMEWORK & RUNTIME</b></sub></td>
+<td align="center">
+
+<table cellpadding="8" cellspacing="0" width="100%">
+
+<tr>
+<td align="center" colspan="3" height="28"><sub>────── &nbsp; <b>FRAMEWORK & RUNTIME</b> &nbsp; ──────</sub></td>
 </tr>
 <tr>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/><sub><b>React</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/><sub><b>TS</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/><sub><b>Python</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br/><sub><b>PHP</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/><br/><sub><b>Go</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/><sub><b>Git</b></sub></td>
+<td align="center" colspan="3">
+<table cellpadding="6" cellspacing="0"><tr>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+</tr></table>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="3" height="28"><sub>────── &nbsp; <b>DATABASES</b> &nbsp; ──────</sub></td>
 </tr>
 <tr>
-<td align="center" colspan="9"><sub><b>DATABASES · CLOUD · OS</b></sub></td>
+<td align="center" colspan="3">
+<table cellpadding="6" cellspacing="0"><tr>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="36" height="36" alt="MariaDB"/><br/><sub><b>MariaDB</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
+</tr></table>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="3" height="28"><sub>────── &nbsp; <b>DEVOPS & MONITORING</b> &nbsp; ──────</sub></td>
 </tr>
 <tr>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br/><sub><b>Postgres</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" height="40" alt="MariaDB"/><br/><sub><b>MariaDB</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" height="40" alt="Cloudflare"/><br/><sub><b>Cloudflare</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.simpleicons.org/portainer/13BEF9" width="40" height="40" alt="Portainer"/><br/><sub><b>Portainer</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="40" height="40" alt="Kali"/><br/><sub><b>Kali</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu"/><br/><sub><b>Ubuntu</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"/><br/><sub><b>Windows</b></sub></td>
-<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="VMware"/><br/><sub><b>VMware</b></sub></td>
+<td align="center" colspan="3">
+<table cellpadding="6" cellspacing="0"><tr>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="36" height="36" alt="Cloudflare"/><br/><sub><b>Cloudflare</b></sub></td>
+</tr></table>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="3" height="28"><sub>────── &nbsp; <b>ENVIRONMENTS</b> &nbsp; ──────</sub></td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<table cellpadding="6" cellspacing="0"><tr>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.simpleicons.org/vmware/607078" width="36" height="36" alt="VMware"/><br/><sub><b>VMware</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.simpleicons.org/portainer/13BEF9" width="36" height="36" alt="Portainer"/><br/><sub><b>Portainer</b></sub></td>
+</tr></table>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="3" height="28"><sub>────── &nbsp; <b>OS</b> &nbsp; ──────</sub></td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<table cellpadding="6" cellspacing="0"><tr>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="36" height="36" alt="Kali Linux"/><br/><sub><b>Kali Linux</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="36" height="36" alt="Ubuntu"/><br/><sub><b>Ubuntu</b></sub></td>
+<td align="center" width="76"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="36" height="36" alt="Windows"/><br/><sub><b>Windows</b></sub></td>
+</tr></table>
+</td>
+</tr>
+
+</table>
+
+</td>
 </tr>
 </table>
 
