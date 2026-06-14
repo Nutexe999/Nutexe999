@@ -34,34 +34,98 @@
 
 ## 🚀 Projects
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top" align="center">
 
-<h3><a href="https://libreauth.nutexe.dev/">LibreAuth</a></h3>
-<p><b>Self-Hosted Authentication Platform</b></p>
-<p>License keys · HWID lock · Subscriptions · Webhooks · 17 SDKs</p>
-
-<img src="https://img.shields.io/badge/API-v1.3-22D3EE?style=flat-square" alt="API"/>
-<img src="https://img.shields.io/badge/Hosting-Self--Hosted-0D1117?style=flat-square" alt="Hosting"/>
-<img src="https://img.shields.io/badge/Security-Ed25519-22D3EE?style=flat-square" alt="Security"/>
-
-<br/><br/>
-<a href="https://libreauth.nutexe.dev/"><img src="https://img.shields.io/badge/Visit-libreauth.nutexe.dev-22D3EE?style=for-the-badge" alt="Visit LibreAuth"/></a>
+<table width="94%" cellpadding="6" cellspacing="0">
+<tr>
+<td align="left" height="22"><sub><b>SELF-HOSTED AUTHENTICATION</b></sub></td>
+</tr>
+<tr>
+<td align="left" height="30"><h3><a href="https://libreauth.nutexe.dev/">LibreAuth</a></h3></td>
+</tr>
+<tr>
+<td align="left" height="68" valign="top">
+<sub>License keys · HWID lock · Subscriptions · Webhooks — deploy บนเซิร์ฟเวอร์ของคุณเอง</sub>
+</td>
+</tr>
+<tr>
+<td align="center" height="58" valign="middle">
+<table cellpadding="3" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/License_Keys-22D3EE?style=flat-square&labelColor=161b22" alt="License Keys"/></td>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/HWID_Lock-22D3EE?style=flat-square&labelColor=161b22" alt="HWID Lock"/></td>
+</tr>
+<tr>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/17_SDKs-22D3EE?style=flat-square&labelColor=161b22" alt="17 SDKs"/></td>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/Webhooks-22D3EE?style=flat-square&labelColor=161b22" alt="Webhooks"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" height="56" valign="middle">
+<table cellpadding="4" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="50%"><sub>API</sub><br/><b>v1.3</b></td>
+<td align="center" width="50%"><sub>HOSTING</sub><br/><b>Self-Hosted</b></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" height="36" valign="bottom">
+<a href="https://libreauth.nutexe.dev/"><img src="https://img.shields.io/badge/Visit-libreauth.nutexe.dev-22D3EE?style=for-the-badge&labelColor=161b22" alt="Visit LibreAuth"/></a>
+</td>
+</tr>
+</table>
 
 </td>
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top" align="center">
 
-<h3><a href="https://veil.nutexe.dev/">Veil</a></h3>
-<p><b>Lua & JS Obfuscator Online</b></p>
-<p>VM wrap · String encryption · Control-flow · Anti-tamper</p>
-
-<img src="https://img.shields.io/badge/FiveM-Supported-A855F7?style=flat-square" alt="FiveM"/>
-<img src="https://img.shields.io/badge/Roblox-Supported-A855F7?style=flat-square" alt="Roblox"/>
-<img src="https://img.shields.io/badge/Plan-Free_Available-0D1117?style=flat-square" alt="Plan"/>
-
-<br/><br/>
-<a href="https://veil.nutexe.dev/"><img src="https://img.shields.io/badge/Visit-veil.nutexe.dev-A855F7?style=for-the-badge" alt="Visit Veil"/></a>
+<table width="94%" cellpadding="6" cellspacing="0">
+<tr>
+<td align="left" height="22"><sub><b>LUA & JS OBFUSCATOR</b></sub></td>
+</tr>
+<tr>
+<td align="left" height="30"><h3><a href="https://veil.nutexe.dev/">Veil</a></h3></td>
+</tr>
+<tr>
+<td align="left" height="68" valign="top">
+<sub>VM wrap · String encryption · Control-flow — ปกป้องสคริปต์ FiveM, Roblox และ Node.js</sub>
+</td>
+</tr>
+<tr>
+<td align="center" height="58" valign="middle">
+<table cellpadding="3" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/VM_Wrap-A855F7?style=flat-square&labelColor=161b22" alt="VM Wrap"/></td>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/FiveM_Lua-A855F7?style=flat-square&labelColor=161b22" alt="FiveM Lua"/></td>
+</tr>
+<tr>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/17_Langs-A855F7?style=flat-square&labelColor=161b22" alt="17 Langs"/></td>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/Anti--Tamper-A855F7?style=flat-square&labelColor=161b22" alt="Anti-Tamper"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" height="56" valign="middle">
+<table cellpadding="4" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="50%"><sub>FREE PLAN</sub><br/><b>3 runs/day</b></td>
+<td align="center" width="50%"><sub>UPTIME</sub><br/><b>99.9%</b></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" height="36" valign="bottom">
+<a href="https://veil.nutexe.dev/"><img src="https://img.shields.io/badge/Visit-veil.nutexe.dev-A855F7?style=for-the-badge&labelColor=161b22" alt="Visit Veil"/></a>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
